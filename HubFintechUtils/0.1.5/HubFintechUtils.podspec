@@ -38,5 +38,8 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.dependency 'Giba', '2.0.2'
-  s.dependency 'Locksmith', '4.0.0'
+  s.dependency 'Locksmith'
+  s.dependency 'Device'
+  s.dependency 'AlamofireImage'
+  s.dependency 'PopupDialog'
 end
