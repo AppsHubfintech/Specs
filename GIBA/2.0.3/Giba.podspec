@@ -23,7 +23,7 @@ Alamofire+ObjectMapper network library for Swift 4
 
   s.homepage         = "http://stash.valepresente.net.br:7990/projects/HUBUDI/repos/giba_ios/browse"
   s.license          = 'MIT'
-  s.author           = { "Felipe Cardoso" => "felipe.cardoso@hubfintech.com.br", "Guilherme Silva" => "guilherme.silva@hubfintech.com.br", 'João Paulo Cavalcante dos Anjos' => 'joao.anjos@hubfintech.com.br' }
+  s.author           = { "Felipe Cardoso" => "felipe.cardoso@hubfintech.com.br", "Guilherme Silva" => "guilherme.silva@hubfintech.com.br", "João Paulo Cavalcante dos Anjos" => "joao.anjos@hubfintech.com.br" }
   s.source           = { :git => "http://stash.valepresente.net.br:7990/scm/hubudi/giba_ios.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
