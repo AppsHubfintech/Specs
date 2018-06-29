@@ -28,10 +28,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'PayPerView/Classes/**/*'
+  s.source_files = 'PayPerView/PayPerView/Classes/**/*'
   
   s.resource_bundles = {
-   'PayPerView' => ['PayPerView/Classes/**/*.{storyboard,xib,xcassets,json,imageset,png,strings,der}']
+   'PayPerView' => ['PayPerView/PayPerView/Classes/**/*.{storyboard,xib,xcassets,json,imageset,png,strings,der}']
   }
 
   s.dependency 'HubFintechUtils'
